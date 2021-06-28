@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="calculator" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" singleton="false">
+    <option name="filePath" value="$PROJECT_DIR$/calculator/lib/main.dart" />
+    <option name="workingDirectory" value="$PROJECT_DIR$/calculator" />
+    <method v="2" />
+  </configuration>
+</component>
